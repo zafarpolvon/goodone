@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "avto"
+        },
+        {
+            "id": "2",
+            "name": "produkti"
+        },
+        {
+            "id": "3",
+            "name": "aksesuari"
+        },
+        {
+            "id": "4",
+            "name": "xoztovar"
+        },
+        {
+            "id": "5",
+            "name": "odejda"
+        }
+    ],
+    "products": [
+        {
+            "id": "11",
+            "name": "Megicar",
+            "category": "avto",
+            "price": "1500000",
+            "remain": "10"
+        },
+        {
+            "id": "33",
+            "name": "Optra",
+            "category": "avto",
+            "price": "1100000",
+            "remain": "12"
+        },
+        {
+            "id": "44",
+            "name": "Keramika",
+            "category": "avto",
+            "price": "3000000",
+            "remain": "10"
+        },
+        {
+            "id": "55",
+            "name": "Non",
+            "category": "produkti",
+            "price": "3500",
+            "remain": "10"
+        },
+        {
+            "id": "66",
+            "name": "Kit-Kat",
+            "category": "produkti",
+            "price": "15000",
+            "remain": "9"
+        },
+        {
+            "id": "77",
+            "name": "Kinder",
+            "category": "produkti",
+            "price": "12000",
+            "remain": "10"
+        },
+        {
+            "id": "88",
+            "name": "Fonarik",
+            "category": "xoztovar",
+            "price": "80000",
+            "remain": "5"
+        },
+        {
+            "id": "99",
+            "name": "Suv 10L",
+            "category": "produkti",
+            "price": "10000",
+            "remain": "3"
+        }
+    ]
+}
